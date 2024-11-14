@@ -1,6 +1,6 @@
 package lang.string.builder;
 
-public class StringBuildMain_1 {
+public class StringBuildMain1_1 {
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder();
         sb.append("A");
