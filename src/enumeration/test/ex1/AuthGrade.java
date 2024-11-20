@@ -20,4 +20,5 @@ public enum AuthGrade {
     public String getDescription() {
         return description;
     }
+
 }
