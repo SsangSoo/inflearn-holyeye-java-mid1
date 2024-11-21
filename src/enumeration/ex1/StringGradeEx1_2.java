@@ -15,7 +15,7 @@ public class StringGradeEx1_2 {
 
         // 오타
         int diamondd = discountService.discount("DIAMONDD", price);
-        System.out.println("DIAMONDD 등급의 할인 금액 : " + vip);
+        System.out.println("DIAMONDD 등급의 할인 금액 : " + diamondd);
 
         // 소문자 입력
         int gold = discountService.discount("gold", price);
